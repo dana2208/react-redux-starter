@@ -7,7 +7,6 @@ class App extends React.Component {
         );
     }
 }
-var x = 5;
 
 App.propTypes = {
     myProp : PropTypes.number.isRequired
